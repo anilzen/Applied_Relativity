@@ -6,4 +6,12 @@ Today, relativity stands firm within the astrophysical and cosmological scientif
 
 In this new golden era, applied relativity refers to applying relativity to problems beyond its accepted domains. I'm looking for examples of relativistic techniques in problems where relativistic effects are negligible. These include typical engineering and technology problems with low characteristic speeds and weak gravitational forces.
 
-Do they exist? Read on.
+Do they exist? Let me know.
+
+## Hyperbolic Deep Learning
+- [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039)
+- [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417)
+
+
+## Oceanography
+- [An Ocean Drum: quasi-geostrophic energetics from a Riemann geometry perspective](https://arxiv.org/abs/1608.05932): Quasi-geostrophic dynamics from the perspective of geometric analysis. Constructs an effective metric from the stratification and Coriolis ingredients of bulk water mass and recasts QG-equations in terms of the associated 3-dimensional Laplacian. Applies spectral geometry to extract information of the system without explicitly solving the equations. The QG metric in the deep ocean is hyperbolic.
