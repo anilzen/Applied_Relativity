@@ -15,3 +15,7 @@ Do they exist? Let me know.
 
 ## Oceanography
 - [An Ocean Drum: quasi-geostrophic energetics from a Riemann geometry perspective](https://arxiv.org/abs/1608.05932): Quasi-geostrophic dynamics from the perspective of geometric analysis. Constructs an effective metric from the stratification and Coriolis ingredients of bulk water mass and recasts QG-equations in terms of the associated 3-dimensional Laplacian. Applies spectral geometry to extract information of the system without explicitly solving the equations. The QG metric in the deep ocean is hyperbolic.
+
+## Classical mechanics
+
+- [Mechanics of floating bodies](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0595): Robert Beig and Bernd Schmidt, two seasoned relativists, attack the problem of rigid bodies with constant density floating in an incompressible fluid.
